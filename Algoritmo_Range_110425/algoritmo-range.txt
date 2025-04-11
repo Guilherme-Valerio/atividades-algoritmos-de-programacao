@@ -1,0 +1,15 @@
+Classe RangeLister()
+	retorna makeRange
+
+
+Algoritmo makeRange(int lower, int upper)
+	range <- [(upper - lower) + 1]
+	range[i] <- lower[i++]
+	retorna range
+
+
+Algoritmo main()
+	lister  <- new RangerLister()
+	range <- lister.makeRange(n1, n2)
+	exibe range[i]
+

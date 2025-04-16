@@ -8,4 +8,4 @@
 `Vitor Siqueira`<br>
 
 ### Tipo de Algoritmo
-Arranjo
+Arranjo: Esse algoritmo retorna um array com elementos de 1 a 10, não realiza nenhuma ação além de exibir a própria estrutura de dados.
